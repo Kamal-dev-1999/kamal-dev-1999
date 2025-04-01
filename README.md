@@ -59,21 +59,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamal-dev-1999&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&line=22D3EE&point=22D3EE" alt="Activity Graph" style="border-radius: 10px;"/>
 </div>
 
-<!-- CSS Animations -->
-<style>
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-20px); }
-    100% { transform: translateY(0px); }
-  }
 
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease-in-out;
-  }
-</style>
