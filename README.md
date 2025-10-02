@@ -30,87 +30,105 @@
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> NEURAL_NETWORK // ABOUT_ME
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> ABOUT ME
 
-```python
-class KamalTripathi:
-    def __init__(self):
-        self.username = "kamal-dev-1999"
-        self.role = "AI Engineer & Full-Stack Developer"
-        self.education = "B.Tech AI & Data Science @ Thakur College (CGPA: 8.5/10)"
-        self.location = "Mumbai, India 🇮🇳"
-        
-        self.current_work = {
-            "company": "Materialyz",
-            "position": "Full Stack Web Developer",
-            "focus": "Asset Auction Systems & Role-Based Access Control"
-        }
-        
-        self.achievements = [
-            "🏆 SIH 2024 Finalist - Top 0.15% (55,000+ teams)",
-            "🥉 Hackanova 3.0 - 3rd Place (250+ teams)",
-            "🥈 SIES Bizzance 2024 - 1st Runner-Up (100+ teams)",
-            "🦈 Shark-Athon 2024 - National Winner"
-        ]
-        
-        self.expertise = ["Healthcare Tech", "Blockchain", "AI Chatbots", "Web3 Gaming"]
-        self.interests = ["Problem Solving", "Crypto Trading", "Tech Innovation"]
-        self.fuel = "☕ Chai & Code"
-    
-    def say_hi(self):
-        print("Building tomorrow's solutions with today's technology! 🚀")
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-me = KamalTripathi()
-me.say_hi()
-```
+🎓 **AI & Data Science Engineer** @ Thakur College of Engineering  
+📊 **CGPA:** 8.5/10 | University of Mumbai  
+💼 **Full Stack Developer** @ Materialyz (Current)  
+📍 **Location:** Mumbai, India 🇮🇳  
 
-<br/>
+### 🎯 What I'm Focused On:
+- 🏥 Building **Healthcare Tech Innovations** with AI & Blockchain
+- 🔗 Exploring **Web3** and **Decentralized Applications**
+- ☁️ Learning **AWS Cloud Architecture** & **Advanced ML**
+- 🚀 Open to collaborating on **AI/ML Projects**
+
+### ⚡ Fun Facts:
+- 🏆 **SIH 2024 Finalist** - Top 0.15% among 55,000+ teams
+- ☕ I design scalable systems while sipping chai
+- 🎮 Love gaming & solving complex problems
+- 💎 Crypto trading & blockchain enthusiast
+
+<br clear="both"/>
 
 <!-- Quantum Tech Stack -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> TECH_STACK // QUANTUM_ARSENAL
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> TECH STACK
 
 <div align="center">
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql&theme=dark" height="50"/>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-### ⚡ Backend Frameworks & APIs
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express&theme=dark" height="50"/>
+### ⚡ Backend & Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🎨 Frontend & UI/UX
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui,figma,vite&theme=dark" height="50"/>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase&theme=dark" height="50"/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,kafka,git,github,linux&theme=dark" height="50"/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🔗 Blockchain & Web3
-<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" height="50"/>
-<img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" height="40"/>
-<img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" height="40"/>
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" height="50"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40"/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,photoshop,postman&theme=dark" height="50"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="40"/>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🔐 Security & Authentication
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/KNOX-0080FF?style=for-the-badge&logo=security&logoColor=white" height="40"/>
+### 🔐 Security & Auth
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 </div>
 
@@ -121,68 +139,107 @@ me.say_hi()
 
 <br/>
 
-## 🚀 FLAGSHIP_PROJECTS // INNOVATION_LAB
+## 🚀 FEATURED PROJECTS
 
-### 🏥 [CareChainAI - Hospital Management System](https://github.com/Kamal-dev-1999/CareChainAI)
-```javascript
-const project = {
-    impact: "40% reduction in patient data processing time",
-    tech: ["Django REST", "React.js", "Solana Blockchain", "Google Gemini AI"],
-    features: [
-        "🔗 Immutable blockchain audit trail for EHR compliance",
-        "🤖 Agentic AI chatbot with natural language processing",
-        "🔐 KNOX Security + JWT authentication",
-        "📊 Production-ready UI with data visualization"
-    ],
-    achievement: "SIH 2024 Finalist & SIES Bizzance 1st Runner-Up"
-};
-```
+<div align="center">
 
-### 📰 [Tej Bharat Network - News Aggregation Platform](https://github.com/Kamal-dev-1999/tej-bharat)
-```javascript
-const platform = {
-    scale: "40+ RSS feeds with real-time processing",
-    stack: ["React.js", "Node.js", "MongoDB", "Firebase", "Express.js"],
-    features: [
-        "🔄 Automated scraping with AsyncIO",
-        "🌐 Multilingual PWA with offline support",
-        "🔍 Full-text search & categorization",
-        "👤 User bookmarks & personalization"
-    ],
-    architecture: "RESTful APIs with paginated delivery"
-};
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 💻 [Contest Platform - Competitive Programming](https://github.com/Kamal-dev-1999/contest-platform)
-```javascript
-const competitivePlatform = {
-    purpose: "Full-stack contest management",
-    tech: ["Django REST", "React.js", "Judge0 API", "PostgreSQL"],
-    capabilities: [
-        "⚡ Real-time code evaluation & submission tracking",
-        "🔍 AI-powered plagiarism detection",
-        "📊 User analytics dashboard",
-        "👨‍💼 Comprehensive admin panel"
-    ]
-};
-```
+### 🏥 CareChainAI
+**Hospital Management System**
 
-### 🎮 [Web3 Tic-Tac-Toe dApp](https://github.com/Kamal-dev-1999/web3-tictactoe)
-```javascript
-const web3Game = {
-    blockchain: "Ethereum (Sepolia Testnet)",
-    innovation: "Decentralized gaming with on-chain staking",
-    tech: ["Solidity", "Hardhat", "Node.js", "Socket.IO", "React"],
-    features: [
-        "💎 GT token staking & automated rewards",
-        "🎯 Smart matchmaking algorithm",
-        "🏆 Live leaderboard with real-time updates",
-        "🌐 MetaMask integration",
-        "🎨 Responsive dark-mode UI"
-    ],
-    smartContracts: ["GameToken", "PlayGame", "TokenStore"]
-};
-```
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kamal-dev-1999/CareChainAI)
+
+**Impact:** 40% reduction in data processing time
+
+**Tech Stack:**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+**Features:**
+- 🔗 Blockchain EHR audit trail
+- 🤖 AI chatbot with NLP
+- 🔐 KNOX + JWT security
+- 📊 Real-time data visualization
+
+**Achievement:** 🏆 SIH 2024 Finalist
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 Tej Bharat Network
+**News Aggregation Platform**
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kamal-dev-1999/tej-bharat)
+
+**Scale:** 40+ RSS feeds processed
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Features:**
+- 🔄 Automated scraping with AsyncIO
+- 🌐 Multilingual PWA
+- 🔍 Full-text search
+- 👤 User personalization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Contest Platform
+**Competitive Programming**
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kamal-dev-1999/contest-platform)
+
+**Tech Stack:**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**Features:**
+- ⚡ Real-time code evaluation
+- 🔍 Plagiarism detection
+- 📊 Analytics dashboard
+- 👨‍💼 Admin panel
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Web3 Tic-Tac-Toe
+**Decentralized Gaming dApp**
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kamal-dev-1999/web3-tictactoe)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://web3-tictactoe.vercel.app)
+
+**Blockchain:** Ethereum (Sepolia)
+
+**Tech Stack:**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+**Features:**
+- 💎 On-chain GT token staking
+- 🎯 Smart matchmaking
+- 🏆 Live leaderboard
+- 🌐 MetaMask integration
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -191,29 +248,31 @@ const web3Game = {
 
 <br/>
 
-## 💼 PROFESSIONAL_EXPERIENCE // WORK_HISTORY
+## 💼 WORK EXPERIENCE
 
-### 🏢 **Materialyz** | Full Stack Web Developer
+<div align="center">
+
+### 🏢 Materialyz | Full Stack Web Developer
 **📍 Mumbai | 🗓️ January 2025 - Present**
-```python
-responsibilities = [
-    "🏦 Asset auction system for banks with role-based access control",
-    "⚙️ Backend development using Django framework",
-    "🔌 RESTful API design & integration",
-    "🗄️ Database optimization ensuring data integrity"
-]
-```
 
-### 🏥 **CareChainAI** | Backend & UI/UX Designer
+<img align="left" width="80" src="https://img.icons8.com/fluency/96/briefcase.png"/>
+
+Developing asset auction systems for banks with role-based access control. Building scalable backend solutions using Django, designing RESTful APIs, and optimizing database performance for enterprise-level applications.
+
+<br clear="left"/>
+
+---
+
+### 🏥 CareChainAI | Backend & UI/UX Designer
 **📍 Mumbai | 🗓️ March 2024**
-```python
-achievements = [
-    "📈 40% reduction in patient data processing time",
-    "🔐 Secure RESTful API architecture",
-    "🎨 End-to-end UI/UX design using Figma",
-    "⚡ Scalable hospital management system"
-]
-```
+
+<img align="left" width="80" src="https://img.icons8.com/fluency/96/hospital.png"/>
+
+Engineered a scalable hospital management system achieving **40% reduction** in patient data processing time. Designed secure RESTful APIs and created end-to-end UI/UX using Figma.
+
+<br clear="left"/>
+
+</div>
 
 <br/>
 
@@ -222,181 +281,16 @@ achievements = [
 
 <br/>
 
-## 🏆 ACHIEVEMENT_MATRIX // HALL_OF_FAME
+## 🏆 ACHIEVEMENTS & COMPETITIONS
 
 <div align="center">
 
-| 🎯 Competition | 🏅 Rank | 👥 Competition | 🎨 Domain |
-|:--------------|:---------|:---------------|:----------|
-| **Smart India Hackathon 2024** | 🥇 **Finalist** | 55,000+ teams | Healthcare Tech |
-| **Hackanova 3.0 2024** | 🥉 **3rd Place** | 250+ teams | AI Mental Health |
-| **SIES Bizzance 2024** | 🥈 **1st Runner-Up** | 100+ teams | Blockchain EHR |
-| **Shark-Athon 2024** | 🦈 **National Winner** | National Level | Startup Pitch |
-| **Ideathon 1.0 2023** | 🚀 **Finalist** | College Level | Innovation |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=kamal-dev-1999&theme=radical&no-frame=true&no-bg=true&row=2&column=7&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,PullRequest,Reviews,Issues,Followers" alt="Trophies"/>
-</div>
-
-<br/>
-
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 📊 NEURAL_ACTIVITY // CODE_MATRIX
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamal-dev-1999&custom_title=Kamal's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area_color=0D1117&title_color=00F5FF&area=true" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-<!-- Cyber Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 📜 CERTIFICATIONS // SKILL_VALIDATION
-
-<div align="center">
-
-| Platform | Course | Focus Area |
-|:---------|:-------|:-----------|
-| 🎓 **IIT Bombay** | Python Training | Core Programming |
-| 📚 **Udemy** | Python Bootcamp | Advanced Python |
-| 🤖 **Udemy** | Python for ML Basics | Machine Learning |
-| 🌐 **Udemy** | Flask Web Development | Backend Framework |
-| 📊 **In Progress** | Power BI Data Analysis | Data Visualization |
-| 🎯 **Coursera** | Django Web Development | Full-Stack Development |
-
-</div>
-
-<br/>
-
-<!-- Holographic Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 👥 LEADERSHIP_PROTOCOL // COMMUNITY_IMPACT
-
-### 📢 **GDSC - Press Lead**
-**🗓️ July 2023 - August 2024 | 📍 Mumbai**
-```javascript
-const impact = {
-    growth: "50% increase in community engagement",
-    reach: "100+ new followers across platforms",
-    role: "Content strategy & social media campaigns"
-};
-```
-
-### 🎯 **DLLE - EWT Committee Member**
-**🗓️ April 2023 - April 2024 | 📍 Mumbai**
-```javascript
-const coordination = {
-    events: "College & inter-college collaborative events",
-    teamwork: "Cross-functional event coordination",
-    impact: "Enhanced student engagement"
-};
-```
-
-<br/>
-
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🎯 CURRENT_MISSION // FOCUS_AREAS
-
-<div align="center">
-
-```yaml
-Current Focus:
-  🏥 Role: Healthcare Tech Innovation at Materialyz
-  🎓 Learning: 
-    - Advanced Blockchain Architecture
-    - AWS Cloud Solutions
-    - Enterprise-Scale AI Systems
-  🤝 Open For:
-    - AI/ML Collaborations
-    - Blockchain Projects
-    - Open Source Contributions
-  💡 Expertise:
-    - Django & Flask Development
-    - React.js Frontend Architecture
-    - Data Science & Analytics
-    - Smart Contract Development
-  ⚡ SuperPower: "Designing scalable systems while sipping chai ☕"
-```
-
-</div>
-
-<br/>
-
-<!-- Cyber Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🌐 CONNECT_PROTOCOL // NETWORK_LINKS
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/kamal-tripathi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Kamal-dev-1999)
-[![Codolio](https://img.shields.io/badge/Codolio-FF6B6B?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=FF6B6B)](https://codolio.com/profile/kamal-dev-1999)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/kamal.7361)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4)](https://drive.google.com/file/d/13PgR9KP6_ZuaeXkBFlqH3bywdjW3GnFU/view)
-
-<br/>
-
-### 💬 Let's Build Something Amazing Together!
-
-**Interests:** 🎮 Gaming | 📚 Tech & Business Books | 💎 Crypto Trading | 🧩 Problem Solving
-
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</div>
-
-<br/>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=kamal-dev-1999&style=for-the-badge&color=00F5FF&label=NEURAL+CONNECTIONS)
-
-</div>
-
-<br/>
-
-<!-- Motivational Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<br/>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
-
-<div align="center">
-
-### ⚡ *"Top 0.15% @ SIH 2024 | Building the Future with AI, Blockchain & Code"* ⚡
-
-**Made with 💙 and lots of ☕ by Kamal Tripathi**
-
-*Last Updated: 2025*
+| 🎯 Competition | 🏅 Position | 👥 Teams | 🎨 Domain | 📅 Year |
+|:--------------|:------------|:---------|:----------|:--------|
+| **Smart India Hackathon** | 🥇 **Finalist (Top 0.15%)** | 55,000+ | Healthcare Tech | 2024 |
+| **Hackanova 3.0** | 🥉 **3rd Place** | 250+ | AI Mental Health | 2024 |
+| **SIES Bizzance** | 🥈 **1st Runner-Up** | 100+ | Blockchain EHR | 2024 |
+| **Shark-Athon** | 🦈 **National Winner** | National | Startup Pitch | 2024 |
+| **Ideathon 1.0** | 🚀 **Finalist** | College | Innovation | 2023 |
 
 </div>
