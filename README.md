@@ -294,3 +294,173 @@ Engineered a scalable hospital management system achieving **40% reduction** in 
 | **Ideathon 1.0** | 🚀 **Finalist** | College | Innovation | 2023 |
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=kamal-dev-1999&theme=radical&no-frame=true&no-bg=true&row=2&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
+
+<br/>
+
+<!-- Neon Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 📊 CONTRIBUTION GRAPH
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamal-dev-1999&custom_title=Kamal's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area_color=0D1117&title_color=00F5FF&area=true" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<!-- Cyber Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 📜 CERTIFICATIONS
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/IIT_Bombay-Python_Training-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-Python_Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![ML](https://img.shields.io/badge/Udemy-Python_for_ML-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![Flask](https://img.shields.io/badge/Udemy-Flask_Development-A435F0?style=for-the-badge&logo=flask&logoColor=white)
+![Power BI](https://img.shields.io/badge/In_Progress-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Django](https://img.shields.io/badge/Coursera-Django_Web_Dev-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- Holographic Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 👥 LEADERSHIP & COMMUNITY
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 📢 GDSC - Press Lead
+**Jul 2023 - Aug 2024**
+
+![Growth](https://img.shields.io/badge/Growth-50%25_Engagement-00F5FF?style=flat-square)
+![Reach](https://img.shields.io/badge/Reach-100%2B_Followers-00F5FF?style=flat-square)
+
+- Content strategy & social media
+- Community engagement campaigns
+- Technical content creation
+
+</td>
+<td width="50%">
+
+### 🎯 DLLE - EWT Committee
+**Apr 2023 - Apr 2024**
+
+![Events](https://img.shields.io/badge/Events-Multiple_Organized-00F5FF?style=flat-square)
+![Impact](https://img.shields.io/badge/Impact-High-00F5FF?style=flat-square)
+
+- Event coordination
+- Inter-college collaborations
+- Student engagement initiatives
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Neon Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🎯 CURRENT FOCUS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏥_Healthcare_Tech-Innovation-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔗_Blockchain-Architecture-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️_AWS-Cloud_Solutions-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_AI/ML-Enterprise_Systems-00F5FF?style=for-the-badge"/>
+
+### 💡 Open for Collaboration On:
+✨ AI/ML Projects | 🔗 Blockchain Solutions | 🌐 Open Source | 🚀 Startup Ideas
+
+### 🎓 Currently Learning:
+📚 Advanced Blockchain | ☁️ AWS Architecture | 🧠 Deep Learning | 📊 Data Engineering
+
+</div>
+
+<br/>
+
+<!-- Cyber Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamal-tripathi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kamal-dev-1999)
+[![Codolio](https://img.shields.io/badge/Codolio-FF6B6B?style=for-the-badge&logo=dev.to&logoColor=white)](https://codolio.com/profile/kamal-dev-1999)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kamal.7361)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/13PgR9KP6_ZuaeXkBFlqH3bywdjW3GnFU/view)
+
+<br/>
+
+### 💬 Let's Build Something Amazing Together!
+
+**Interests:** 🎮 Gaming | 📚 Tech Books | 💎 Crypto | 🧩 Problem Solving | ☕ Chai Lover
+
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
+
+<br/>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=kamal-dev-1999&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+<!-- Motivational Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<div align="center">
+
+### ⚡ *"Top 0.15% @ SIH 2024 | Transforming Ideas into Digital Reality"* ⚡
+
+**Made with 💙 and lots of ☕**
+
+*Last Updated: October 2025*
+
+</div>
